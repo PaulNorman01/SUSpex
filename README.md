@@ -8,4 +8,9 @@ To Suspend Threads:                 suspex.exe \<pid\>
 
 To Resume The Suspended Threads:    suspex.exe \<pid\> /continue
 
+
+## Screenshot
+
+Notepad Process Has been Suspended In The Below Image:
+
 ![Screenshot](suspex.png)
