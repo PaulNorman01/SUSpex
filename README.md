@@ -8,5 +8,4 @@ To Suspend Threads:                 suspex.exe \<pid\>
 
 To Resume The Suspended Threads:    suspex.exe \<pid\> /continue
 
-
-![Image]([http://url/to/img.png](https://i.ibb.co/0Z3G39h/suspex.png))
+![Screenshot](suspex.png)
